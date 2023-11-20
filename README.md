@@ -1,7 +1,7 @@
 # Manoju Thalari - Data Science and Quantitative Finance Enthusiast
 
 ## Objective
-Enthusiastic and highly motivated graduate student pursuing a Master of Science in Data Science with a strong passion for quantitative finance and trading. Eager to leverage my analytical and data-driven skills to excel in the role of a Quantitative Trader, where I can apply my expertise in data analysis, modeling, and machine learning to drive profitable trading strategies.
+Enthusiastic and highly motivated graduate student pursuing a Master of Science in Data Science with a strong passion for quantitative finance and trading. Eager to leverage my analytical and data-driven skills to excel in the role of a Quantitative Developer, where I can apply my expertise in data analysis, modeling, and machine learning to drive profitable trading strategies.
 
 ## Education
 - **Master of Science in Data Science**
