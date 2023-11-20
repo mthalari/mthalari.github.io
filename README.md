@@ -62,7 +62,7 @@ Enthusiastic and highly motivated graduate student pursuing a Master of Science 
 ## Contact Information
 - **Manoju Thalari**
 - Email: mthalari@stevens.edu | manoj.thalari@outlook.com
-- Phone: +1 551-655-9184
+- Phone: +1 213-671-8108
 - LinkedIn: [manoj-thalari-3414b718b](https://www.linkedin.com/in/manoj-thalari-3414b718b/)
 - GitHub: [manojthalari](https://github.com/mthalari)
 - Medium: [m-thalari](https://m-thalari.medium.com/)
